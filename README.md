@@ -1,6 +1,6 @@
-### Welcome to my profile!
+### Welcome to my profile! I'm Helen.
 - 🌱 I’m currently learning React Native, Java and Python
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: she/her
 
 <div>
   <a href="https://github.com/HelenDeunerFerreira">
