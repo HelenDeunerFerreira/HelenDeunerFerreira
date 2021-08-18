@@ -1,6 +1,9 @@
 ### Welcome to my profile! I'm Helen.
 - 🌱 I’m currently learning React Native, Java and Python
-- 😄 Pronouns: she/her
+- 💡 I have experience at JS, IoT and mobile
+- 💻 Studying Computer Science at IMED
+- 🌐 Passo Fundo, Rio Grande do Sul, Brazil
+- 💬 Pronouns: she/her
 
 <div>
   <a href="https://github.com/HelenDeunerFerreira">
