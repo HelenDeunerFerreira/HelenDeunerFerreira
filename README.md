@@ -1,6 +1,6 @@
 ### Welcome to my profile! I'm Helen.
 - 🌱 I’m currently learning React Native, Java and Python
-- 💡 I have experience at JS, IoT and mobile
+- 💡 I have experience at JS, IoT and tests (manual and automation with Cypress)
 - 💻 Studying Computer Science at IMED
 - 🌐 Passo Fundo, Rio Grande do Sul, Brazil
 - 💬 Pronouns: she/her
