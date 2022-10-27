@@ -1,10 +1,9 @@
 ### Hi, I'm Helen!
 - 🌱 I’m currently learning Data Science and Machine Learning with Python
-<!-- - 💡 I have experience at JS, IoT and tests (manual and automation with Cypress) -->
 - 💻 Studying Computer Science at IMED/Atitus
 - 🌐 Passo Fundo, Rio Grande do Sul, Brazil
 - 💬 Pronouns: she/her
-
+<!-- - 💡 I have experience at JS, IoT and tests (manual and automation with Cypress) -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
