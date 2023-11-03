@@ -1,7 +1,7 @@
 ### Hi, I'm Helen!
 - 🌱 I’m currently learning Data Science and Machine Learning with Python
 - 💻 Studying Computer Science at UFFS
-- 🌐 Passo Fundo, Rio Grande do Sul, Brazil
+- 🌐 Brazil
 - 💬 Pronouns: she/her
 <!-- - 💡 I have experience at JS, IoT and tests (manual and automation with Cypress) -->
 
