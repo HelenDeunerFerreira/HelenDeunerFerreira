@@ -1,6 +1,6 @@
 ### Hi, I'm Helen!
-- 🌱 I’m currently studying Data Analysis
-- 💻 Studying Computer Science at UFFS (Universidade Federal da Fronteira Sul)
+- 🌱 Data Analysis, Machine Learning and AI
+- 💻 Studying Computer Science
 - 🌐 Brazil
 - 💬 Pronouns: she/her
 
