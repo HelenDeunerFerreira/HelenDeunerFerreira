@@ -1,6 +1,6 @@
 ### Hi, I'm Helen!
 - 🌱 Data Analysis, Machine Learning and AI
-- 💻 Studying Computer Science
+- 💻 Computer Science Bachelor
 - 🌐 Brazil
 - 💬 Pronouns: she/her
 
