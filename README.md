@@ -12,13 +12,11 @@
 <!--   <img align="center" alt="Helen-R" height="30" width="40" src="">    -->
 </div>
 
-##
-
-<div>
+<!-- <div>
   <a href="https://github.com/HelenDeunerFerreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelenDeunerFerreira&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenDeunerFerreira&layout=compact&langs_count=7&theme=onedark"/>
-</div>
+</div> -->
   
 ##
  
