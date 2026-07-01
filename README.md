@@ -1,5 +1,5 @@
 ### Hi, I'm Helen!
-- 🌱 QA Engineer, Cypress, Postman
+- 🌱 QA Engineer, Playwright Cypress, Postman
 - 💻 Computer Science Bachelor
 - 🌐 Brazil
 - 💬 Pronouns: she/her
